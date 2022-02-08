@@ -28,4 +28,4 @@
 ### Краткая информация о данных
 .....
 
-:arrow_up:[к оглавлению](https://github.com/Vladislav-Pashkov/sf-data-science/blob/main/project%200/README_0.md#Оглавление)
+[к оглавлению](https://github.com/Vladislav-Pashkov/sf-data-science/blob/main/project%200/README_0.md#Оглавление)
