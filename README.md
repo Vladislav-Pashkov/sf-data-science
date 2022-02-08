@@ -1,2 +1,9 @@
-# sf-data-science
-SF homework
+# My data science projects
+From the [Skillfactory Data Science course](https://skillfactory.ru/data-scientist)
+
+## Проекты
+
+*[Проект 0. Игра: Угадай число](https://github.com/Vladislav-Pashkov/sf-data-science/blob/main/game.py)
+* [Проект 1. _________](__________)
+* [Проект 2. _________](__________)
+* [Проект 3. _________](__________)
