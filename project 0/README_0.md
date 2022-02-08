@@ -2,12 +2,12 @@
 
 ## Оглавление
 
-*[1. Описане проекта](https://github.com/Vladislav-Pashkov/sf-data-science/blob/main/game.py)
-* [2. Какой кейс решаем](__________)
-* [3. Краткая информация о данных](__________)
-* [4. Этапы работы над проектам](__________)
-* [5. Результаты](__________)
-* [6. Выводы](__________)
+* [1. Описане проекта](https://github.com/Vladislav-Pashkov/sf-data-science/blob/main/project%200/README_0.md#Описание-проекта)
+* [2. Какой кейс решаем](https://github.com/Vladislav-Pashkov/sf-data-science/blob/main/project%200/README_0.md#Какой-кейс-решаем)
+* [3. Краткая информация о данных](https://github.com/Vladislav-Pashkov/sf-data-science/blob/main/project%200/README_0.md#Краткая-информация-о-данных)
+* [4. Этапы работы над проектом](https://github.com/Vladislav-Pashkov/sf-data-science/blob/main/project%200/README_0.md#Этапы-работы-над-проектом)
+* [5. Результаты](https://github.com/Vladislav-Pashkov/sf-data-science/blob/main/project%200/README_0.md#Результаты)
+* [6. Выводы](https://github.com/Vladislav-Pashkov/sf-data-science/blob/main/project%200/README_0.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьбтером числоза минимальное число попыток
@@ -28,4 +28,4 @@
 ### Краткая информация о данных
 .....
 
-
+:arrow_up:[к оглавлению](https://github.com/Vladislav-Pashkov/sf-data-science/blob/main/project%200/README_0.md#Оглавление)
