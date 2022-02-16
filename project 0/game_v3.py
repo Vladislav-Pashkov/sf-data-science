@@ -11,8 +11,8 @@ def random_predict(number: int = 1) -> int:
         """
     
     count = 0
-    min_predict_number = 1
-    max_predict_number = 101
+    min_predict_number = 1   # минимальнае число
+    max_predict_number = 101  # максимальное число
     predict_number = np.random.randint(min_predict_number, max_predict_number)  # предполагаемое число
     while True:
         if number == predict_number:
