@@ -15,8 +15,16 @@ def random_predict(number:int=1) -> int:
     while True:
         count += 1
         predict_number = np.random.randint(1, 101) # предполагаемое число
-        if number == predict_number:
-            break # выход из цикла, если угадали
+        while True:
+            if number == predict_number:
+                count += 1
+                break # выход из цикла, если угадали
+            elif predict_number > number:
+                count += 1
+                predict_number = np.random.randint(1, predict_number)
+            else:
+                count += 1
+                predict_number = np.random.randint(predict_number+1, 101)
     return(count)
 
 def score_game(random_predict) -> int:
@@ -46,4 +54,4 @@ def score_game(random_predict) -> int:
 if __name__ == '__main__':
     score_game(random_predict)
     
-#print(f'Количество попыток: {random_predict()}')
+print(f'Количество попыток: {random_predict()}')
