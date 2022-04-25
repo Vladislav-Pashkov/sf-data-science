@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# large file
+dst-3.0_16_1_hh_database.csv
+
 # C extensions
 *.so
 
