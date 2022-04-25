@@ -10,8 +10,8 @@
 * [6. Выводы](https://github.com/Vladislav-Pashkov/sf-data-science/tree/main/project%201/README.md#Выводы)
 
 ### Описание проекта
-Анализ вакансий на hh.ru /
-БД https://drive.google.com/drive/folders/1jG5M3QmaedQethQ-e-NJ1AZom6bmmeRX?usp=sharing
+Анализ вакансий на hh.ru 
+- БД https://drive.google.com/drive/folders/1jG5M3QmaedQethQ-e-NJ1AZom6bmmeRX?usp=sharing
 
 ### Какой кейс решаем?
 Надо провести анализ БД соискателей с сайта hh.ru
